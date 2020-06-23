@@ -1,9 +1,9 @@
 # Alexander's TodoList
 
 ## Wichtig!
-Pause einlegen
-Konferenz nächste Woche vorbereiten
-Abwesenheiten eintragen
+Pause einlegen  
+Konferenz nächste Woche vorbereiten  
+Abwesenheiten eintragen  
 
 ## Heute erledigen
 Freifahrtanträge bearbeiten
